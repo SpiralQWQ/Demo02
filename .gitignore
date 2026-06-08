@@ -1,0 +1,31 @@
+# UE generated files
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+Platforms/
+Script/
+
+# VS/Mac files
+.vs/
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.user
+*.VC.opendb
+*.xcodeproj
+*.xcworkspace
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# README local display naming — hardlink aliases, not tracked
+READEME_*
