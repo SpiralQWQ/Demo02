@@ -27,5 +27,10 @@ Thumbs.db
 .idea/
 .vscode/
 
+# Asset packs — kept locally for editor dependency, not tracked
+Content/FirstPerson/
+Content/ImportContent/
+Content/StarterContent/
+
 # README local display naming — hardlink aliases, not tracked
 READEME_*
